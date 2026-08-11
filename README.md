@@ -11,3 +11,5 @@
 ### 11/08/2026 Oprettede endnu en SSH-key til min Ubuntu VM, og testet den. Nu er repositoriet forbundet til mit repo på Github på både min PC og VM, og jeg kan nu push/pull begge steder - og alt dukker op inde på Github repo'et som forventet.
 
 ### 11/08/2026 Sen oprettelse af index.html, som skulle være udført tidligere. 
+
+### 11/08/2026 Tilføjede et link til en kort video og et billede til index.html. Oprettede desuden en ny branch på Github til projektet.
